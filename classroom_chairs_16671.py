@@ -43,7 +43,7 @@ Programme: Software Engineering
 LEVEL: 100
 Week: 1
 
-Today, I will create and run a python program.
+Today, I will create a python program.
 
 
 Number of rows 6
